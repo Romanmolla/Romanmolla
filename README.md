@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/Romanmolla/Romanmolla/blob/main/Yellow%20Professional%20Gradient%20App%20Development%20Banner%20Landscape.png)
+![](https://github.com/Romanmolla/Romanmolla/blob/main/cse.jpg)
 <h1 align="center">Hi 👋, I'm Roman Molla</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 

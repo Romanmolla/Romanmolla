@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![](https://github.com/Romanmolla/Romanmolla/blob/main/cse.jpg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h1 align="center">Hi 👋, I'm Roman Molla</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
